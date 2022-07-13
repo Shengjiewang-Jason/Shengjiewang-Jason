@@ -21,7 +21,6 @@ Things about me:
 - 🔭 Insterested in both Reinforcement learning and Robotics.
   - Specific fields including *Safe RL*, *Imitation Learning*, *Bionic Robot*, etc...
 - ⚡ Currently focusing on *Safe RL*.
-- 🍎 Personal Web: [https://Shengjiewang-Jason.github.io/](https://Shengjiewang-Jason.github.io/)
 
 
 
