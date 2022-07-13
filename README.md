@@ -21,6 +21,7 @@ Things about me:
 - 🔭 Insterested in both Reinforcement learning and Robotics.
   - Specific fields including *Safe RL*, *Imitation Learning*, *Bionic Robot*, etc...
 - ⚡ Currently focusing on *Safe RL*.
+- 📫 How to reach me: [wangsj19@mails.tsinghua.edu.cn](wangsj19@mails.tsinghua.edu.cn)
 
 
 
