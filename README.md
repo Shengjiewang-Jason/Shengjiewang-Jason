@@ -28,5 +28,5 @@ Things about me:
 
 [![Shengjiewang-Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shengjiewang-Jason&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shengjiewang-Jason&langs_count=8&exclude_repo=liuruiyang98.github.io,Jittor-summary,EdgeDetection,JMedSeg)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shengjiewang-Jason&langs_count=8&exclude_repo=Shengjiewang-Jason.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
