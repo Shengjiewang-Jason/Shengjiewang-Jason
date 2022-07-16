@@ -26,8 +26,11 @@ Things about me:
 
 
 ## ⚡ GitHub Stats:
-
+<!--
 [![Shengjiewang-Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shengjiewang-Jason&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+![Shengjiewang-Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shengjiewang-Jason&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shengjiewang-Jason&langs_count=8&)](https://github.com/anuraghazra/github-readme-stats)
 
